@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class demo extends Util {
 	
-	public int age = 30;
+	public int age = 31;
 	
 
 	@SuppressWarnings("deprecation")
